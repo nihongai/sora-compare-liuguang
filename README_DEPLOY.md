@@ -14,4 +14,4 @@ Sora 对比 ChatGPT / 视频其它 对比 ChatGPT / 流光AI 优势 / AI 比较 
 
 模板：`site_v2.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-sora-compare&utm_medium=referral&utm_campaign=sora-compare`
-最后更新：2026年07月29日
+最后更新：2026年08月01日
